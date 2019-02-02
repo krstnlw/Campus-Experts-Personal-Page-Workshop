@@ -908,6 +908,8 @@
 			#main .avatar img {
 				display: block;
 				margin: 0 auto;
+
+				height: 10em;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
 			}
@@ -1028,3 +1030,6 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+	#contact-form{
+		margin-top: 10px
+	}
